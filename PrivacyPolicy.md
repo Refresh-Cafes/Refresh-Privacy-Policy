@@ -3,18 +3,18 @@
 **Son güncelleme: 14.07.2024**
 
 ## 1. Giriş ve Veri Sorumlusu
-İşbu Gizlilik ve Kişisel Verileri Koruma Politikası, veri sorumlusu sıfatıyla “Refresh the Future” uygulamasının ve sitesinin sahibi Alpay Can ÖZPİRİNÇ (bundan sonra “Uygulama Sahibi” veya "Biz") tarafından, 6698 Sayılı Kişisel Verilerin Korunması Kanunu’nun (“KVKK”) kişisel verilerin işlenmesine ilişkin “Veri Sorumlusunun Aydınlatma Yükümlülüğü” başlıklı 10. maddesi ve “İlgili Kişinin Hakları” başlıklı 11. maddesi çerçevesinde, kişisel verilerinizin toplanma yöntemleri, işlenmesi, kullanılması, aktarılması, imha edilmesi konularında tarafınıza bilgi vermek maksadıyla hazırlanmıştır.
+İşbu Gizlilik ve Kişisel Verileri Koruma Politikası, veri sorumlusu sıfatıyla “Refresh the Future” uygulamasının ve sitesinin sahibi Alpaycan ÖZPİRİNÇ (bundan sonra “Uygulama Sahibi” veya "Biz") tarafından, 6698 Sayılı Kişisel Verilerin Korunması Kanunu’nun (“KVKK”) kişisel verilerin işlenmesine ilişkin “Veri Sorumlusunun Aydınlatma Yükümlülüğü” başlıklı 10. maddesi ve “İlgili Kişinin Hakları” başlıklı 11. maddesi çerçevesinde, kişisel verilerinizin toplanma yöntemleri, işlenmesi, kullanılması, aktarılması, imha edilmesi konularında tarafınıza bilgi vermek maksadıyla hazırlanmıştır.
 
 İşbu Gizlilik Politikası, Uygulamanın ve İnternet sitesinin tüm bölümlerinde geçerli olacaktır.
 
 Kullanıcılar Uygulama ve Web sitesini kullanım sırasında işbu gizlilik politikası hükümlerine uygun davranacaklarını kabul, beyan ve taahhüt ederler.
 
 ## 2. Kişisel Verilerin Toplanması ve İşlenmesi
-Uygulama Sahibi, kişisel verilerinizi KVKK kapsamında dürüstlük kurallarına uygun olarak, işlenecekleri amaçla bağlantılı ve sınırlı olacak şekilde, ilgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan şartlar ve amaçlar dahilinde işleyecektir. Kişisel verilerinizi şu amaçlarla kullanabiliriz:
-- Hesap oluşturmak ve güncellemek.
-- “Geri dönüştürülebilir bardak” teslim alma veya iade etme hizmeti sağlamak.
+Uygulama Sahibi, kişisel verilerinizi KVKK kapsamında dürüstlük kurallarına uygun olarak, işlenecekleri amaçla bağlantılı ve sınırlı olacak şekilde, ilgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan şartlar ve amaçlar dahilinde işleyecektir. Kişisel verilerinizi şu amaçlarla kullanabiliriz: 
+- Hesap oluşturmak ve güncellemek. 
+- “geri dönüştürülebilir ambalaj” teslim alma veya iade etme hizmeti sağlamak.
 - Kullanıcı sözleşmesinin ifası ve hukuki yükümlülüklerin yerine getirilmesi amacıyla, olası bir uyuşmazlık halinde taraflardan birinin diğerine karşı yasal yollara başvurması ve ilgili dosyaların takibi amacıyla.
-- İletişim kurmak ve bildirimler göndermek.
+- İletişim kurmak ve bildirimler göndermek. 
 - İstatistik ve analizler yapmak.
 
 Bunlara ek olarak kredi kartı ve banka bilgileriniz, mal ve hizmet satış süreçlerinin yürütülmesi amacıyla işlenmektedir.
@@ -23,9 +23,10 @@ Bunlara ek olarak kredi kartı ve banka bilgileriniz, mal ve hizmet satış sür
 - Kimlik bilgileri (Ad-soyad, mail bilgisi, telefon numarası (opsiyonel), şifre, cinsiyet (opsiyonel) ve yaş)
 - İletişim bilgileri (e-posta, telefon numarası, adres, IP bilgileri, iletişim bilgileri)
 - Kredi kartı ve banka bilgileriniz
+- Konum erişimi
 
 ## 4. Kişisel Verilerin İşlenme Hukuki Sebepleri
-Kişisel verileriniz, aşağıdaki hukuki dayanaklara binaen işlenebilir:
+Kişisel verileriniz, aşağıdaki hukuki dayanaklara binaen işlenebilir: 
 - Kullanıcının açık rızası.
 - 6698 Sayılı Kişisel Verilerin Korunması Kanunu madde 5 ve devamı maddeleri.
 - Kullanıcı sözleşmesi kapsamında veri işleme.
@@ -38,7 +39,7 @@ Kişisel verileriniz, yasal düzenlemelere uygun olarak, işbirliği yapılan ü
 Site Sahibi, kişisel verilerin güvenliğini sağlamak için gerekli teknik önlemleri almaktadır. Veriler şifreleme yöntemleriyle korunacaktır ve erişim yetkileri sınırlı olacaktır.
 
 ## 7. Kişisel Veri Sahibi Hakları
-KVKK kapsamında kullanıcılar, kişisel verileri ile ilgili çeşitli haklara sahiptirler. Bu haklar arasında bilgi alma, düzeltme, silme ve işleme itiraz etme hakları bulunmaktadır. Bu haklarınızı kullanmak için lütfen [+90 507 993 00 03 veya support@refreshthefuture.co adresine mail yazılabilir] üzerinden bize ulaşın. Kişisel verilerinizin burada belirtilen amaçlarla işlenmesi hususundaki açık onayınızı her zaman geri alabilirsiniz. Kişisel Veri Sahibi, Site Sahibine başvurarak kendisiyle ilgili;
+KVKK kapsamında kullanıcılar, kişisel verileri ile ilgili çeşitli haklara sahiptirler. Bu haklar arasında bilgi alma, düzeltme, silme ve işleme itiraz etme hakları bulunmaktadır. Bu haklarınızı kullanmak için lütfen [support@refreshthefuture.co] üzerinden bize ulaşın. Kişisel verilerinizin burada belirtilen amaçlarla işlenmesi hususundaki açık onayınızı her zaman geri alabilirsiniz. Kişisel Veri Sahibi, Site Sahibine başvurarak kendisiyle ilgili;
 - Kişisel veri işlenip işlenmediğini öğrenme.
 - Kişisel verileri işlenmişse buna ilişkin bilgi talep etme.
 - Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme.
@@ -65,7 +66,7 @@ Refresh the Future, Uygulama içerisinde başkaca sitelere link (bağlantı) sa�
 
 **İletişim Bilgileri:**
 - **Alpaycan ÖZPİRİNÇ**
-- [https://www.refreshthefuture.co]
+- [https://www.refreshthefuture.co](https://www.refreshthefuture.co)
 - [Yeşilce Mahallesi Emirşah Sokak No:21 İç Kapı No:2 Kağıthane/İSTANBUL]
 - [support@refreshthefuture.co]
 - [+90 507 993 00 03]
