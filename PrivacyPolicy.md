@@ -61,7 +61,7 @@ Refresh the Future, Uygulama içerisinde başkaca sitelere link (bağlantı) sa�
 İşbu gizlilik politikasında geçen hükümler gerekli gördüğü zamanda Refresh the Future tarafından Uygulama’da yayınlamak şartıyla değiştirebilir. Refresh the Future’un değişiklik yaptığı gizlilik bildirimi hükümleri Uygulama’da yayınlandığı tarihte yürürlüğe girmiş kabul edilir.
 
 ## 12. Kullanıcı Sözleşmesi ve Gizlilik Politikası
-İşbu Gizlilik Politikası, 12 (oniki) maddeden ibaret olup Kullanıcı Sözleşmesinin ayrılmaz bir parçasıdır.
+İşbu Gizlilik Politikası, 12 (on iki) maddeden ibaret olup Kullanıcı Sözleşmesinin ayrılmaz bir parçasıdır.
 
 **İletişim Bilgileri:**
 - **Alpaycan ÖZPİRİNÇ**
